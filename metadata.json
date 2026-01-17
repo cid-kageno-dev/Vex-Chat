@@ -1,0 +1,7 @@
+{
+  "name": "VexChat",
+  "description": "A sleek, modern messaging application replica featuring integrated Gemini intelligence for smart replies, content analysis, and real-time AI conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
